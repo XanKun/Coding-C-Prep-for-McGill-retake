@@ -36,6 +36,6 @@ int main() {
 		printf("Enter a guess for a number between 1 and 100: ");
 	}
 	
-	under_over(r, guess, count);
+	under_over(r, guess);
 	return 0;
 }
