@@ -70,3 +70,4 @@ int main(){
 
 //I'm hoping to improve the code later allowing the user to change the number of faces on a die (d4, d8, d12, d20, etc)
 //I also want to try making it roll 2 dice at a time which would involve even more computations to, in the long run, achieve a decent bell curve
+
