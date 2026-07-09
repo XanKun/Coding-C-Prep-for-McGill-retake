@@ -40,7 +40,7 @@ void printHistogram(int counts[]) {
 	int i;
 	int j;
 	for(i = 0; i < 6; i++) {
-		printf("%d: ", i+1);
+		printf("%d Rolled %d times - ", i+1, counts[i]);
 		for(j = 0; j < counts[i]; j++) {
 			printf("*");
 		}
